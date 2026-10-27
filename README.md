@@ -22,8 +22,8 @@ for arch just do (sudo pacman -Sy && sudo pacman -Sy python-pip git)
 
 it works on windows/linux/termux
 
-git clone https://github.com/Aligamm/Roblox-ID-INFO
+## git clone https://github.com/Aligamm/Roblox-ID-INFO
 
-cd Roblox-ID-INFO
+## cd Roblox-ID-INFO
 
 I hope u enjoy it and please leave a star there♥️
